@@ -1,0 +1,4 @@
+IGUI_FR = {
+	IGUI_PlayerText_PlantStudyDone = "Fait.",
+	IGUI_PlayerText_PlantStudyAlreadyDone = "J'ai déjà étudié cela.",
+}
