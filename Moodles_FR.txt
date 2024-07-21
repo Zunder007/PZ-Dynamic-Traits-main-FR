@@ -6,7 +6,14 @@ Moodles_FR = {
 	Moodles_Desc_DTOverdose3_lvl3 = "Vous vous sentez un peu somnolent.",
 	Moodles_DTOverdose4_lvl4 = "Surdose",
 	Moodles_Desc_DTOverdose4_lvl4 = "Intoxication élevée, danger de mort.",
-	
+
+	Moodles_dtoverdose_Bad_lvl2 = "Surdose",
+	Moodles_dtoverdose_Bad_desc_lvl2 = "Légère agitation et transpiration.",
+	Moodles_dtoverdose_Bad_lvl3 = "Surdose",
+	Moodles_dtoverdose_Bad_desc_lvl3 = "Vous vous sentez un peu somnolent.",
+	Moodles_dtoverdose_Bad_lvl4 = "Surdose",
+	Moodles_dtoverdose_Bad_desc_lvl4 = "Intoxication élevée, danger de mort.",
+
 	Moodles_DTFoodAllergy1_lvl1 = "Allergie alimentaire",
 	Moodles_Desc_DTFoodAllergy1_lvl1 = "Éternuements sporadiques.",
 	Moodles_DTFoodAllergy2_lvl2 = "Allergie alimentaire",
@@ -15,7 +22,16 @@ Moodles_FR = {
 	Moodles_Desc_DTFoodAllergy3_lvl3 = "Démangeaisons presque partout sur le corps. La douleur augmente beaucoup.",
 	Moodles_DTFoodAllergy4_lvl4 = "Anaphylaxie",
 	Moodles_Desc_DTFoodAllergy4_lvl4 = "L'allergie a envahi tout votre corps. Vous étouffez, votre fatigue augmente et votre santé diminue.",
-	
+
+	Moodles_dtfoodallergy_Bad_lvl1 = "Allergie alimentaire",
+	Moodles_dtfoodallergy_Bad_desc_lvl1 = "Éternuements sporadiques.",
+	Moodles_dtfoodallergy_Bad_lvl2 = "Allergie alimentaire",
+	Moodles_dtfoodallergy_Bad_desc_lvl2 = "Éternuements et démangeaisons fréquents dans diverses parties du corps. Vous ressentez de la douleur en vous grattant.",
+	Moodles_dtfoodallergy_Bad_lvl3 = "Allergie alimentaire",
+	Moodles_dtfoodallergy_Bad_desc_lvl3 = "Démangeaisons presque partout sur le corps. La douleur augmente beaucoup.",
+	Moodles_dtfoodallergy_Bad_lvl4 = "Allergie alimentaire",
+	Moodles_dtfoodallergy_Bad_desc_lvl4 = "L'allergie a envahi tout votre corps. Vous étouffez, votre fatigue augmente et votre santé diminue.",
+
 	Moodles_DTDrugsAllergy1_lvl1 = "Allergie aux Médicaments",
 	Moodles_Desc_DTDrugsAllergy1_lvl1 = "Toux fréquente.",
 	Moodles_DTDrugsAllergy2_lvl2 = "Allergie aux Médicaments",
@@ -24,7 +40,16 @@ Moodles_FR = {
 	Moodles_Desc_DTDrugsAllergy3_lvl3 = "Malaise et fatigue. Démangeaisons presque partout sur le corps. La douleur augmente beaucoup.",
 	Moodles_DTDrugsAllergy4_lvl4 = "Anaphylaxie",
 	Moodles_Desc_DTDrugsAllergy4_lvl4 = "L'allergie a envahi tout votre corps. Vous étouffez, votre fatigue augmente et votre santé diminue.",
-	
+
+	Moodles_dtpillsallergy_Bad_lvl1 = "Allergie aux Médicaments",
+	Moodles_dtpillsallergy_Bad_desc_lvl1 = "Toux fréquente.",
+	Moodles_dtpillsallergy_Bad_lvl2 = "Allergie aux Médicaments",
+	Moodles_dtpillsallergy_Bad_desc_lvl2 = "Toux fréquente et démangeaisons dans diverses parties du corps. Vous ressentez de la douleur en vous grattant.",
+	Moodles_dtpillsallergy_Bad_lvl3 = "Allergie aux Médicaments",
+	Moodles_dtpillsallergy_Bad_desc_lvl3 = "Malaise et fatigue. Démangeaisons presque partout sur le corps. La douleur augmente beaucoup.",
+	Moodles_dtpillsallergy_Bad_lvl4 = "Allergie aux Médicaments",
+	Moodles_dtpillsallergy_Bad_desc_lvl4 = "L'allergie a envahi tout votre corps. Vous étouffez, votre fatigue augmente et votre santé diminue.",
+
 	Moodles_DTBloodlust1_lvl1 = "Soif de sang",
 	Moodles_Desc_DTBloodlust1_lvl1 = "Vous commencez à penser à votre prochaine victime.",
 	Moodles_DTBloodlust2_lvl2 = "Soif de sang",
@@ -33,10 +58,23 @@ Moodles_FR = {
 	Moodles_Desc_DTBloodlust3_lvl3 = "Ça fait trop longtemps que vous n'avez pas tuer quelqu'un, votre humeur en est encore plus affectée.",
 	Moodles_DTBloodlust4_lvl4 = "Soif de sang",
 	Moodles_Desc_DTBloodlust4_lvl4 = "En danger de développer des problèmes d'humeur permanents.",
-	
+
+	Moodles_dtbloodlust_Bad_lvl1 = "Soif de sang",
+	Moodles_dtbloodlust_Bad_desc_lvl1 = "Vous commencez à penser à votre prochaine victime.",
+	Moodles_dtbloodlust_Bad_lvl2 = "Soif de sang",
+	Moodles_dtbloodlust_Bad_desc_lvl2 = "Ça fait longtemps que vous n'avez pas tuer quelqu'un, votre humeur en est affectée.",
+	Moodles_dtbloodlust_Bad_lvl3 = "Soif de sang",
+	Moodles_dtbloodlust_Bad_desc_lvl3 = "Ça fait trop longtemps que vous n'avez pas tuer quelqu'un, votre humeur en est encore plus affectée.",
+	Moodles_dtbloodlust_Bad_lvl4 = "Soif de sang",
+	Moodles_dtbloodlust_Bad_desc_lvl4 = "En danger de développer des problèmes d'humeur permanents.",
+
 	Moodles_DTCaffeinePositive1_lvl1 = "Dépendance à la caféine",
 	Moodles_Desc_DTCaffeinePositive1_lvl1 = "De la caféine dans le corps. Vous êtes de bonne humeur.",
 	Moodles_DTCaffeineNegative1_lvl1 = "Dépendance à la caféine",
 	Moodles_Desc_DTCaffeineNegative1_lvl1 = "Pas de caféine dans le corps. Vous êtes de mauvaise humeur.",
 
+	Moodles_dtcaffeine_Good_lvl1 = "Dépendance à la caféine",
+	Moodles_dtcaffeine_Good_desc_lvl1 = "De la caféine dans le corps. Vous êtes de bonne humeur.",
+	Moodles_dtcaffeine_Bad_lvl1 = "Dépendance à la caféine",
+	Moodles_dtcaffeine_Bad_desc_lvl1 = "Pas de caféine dans le corps. Vous êtes de mauvaise humeur.",
 }
